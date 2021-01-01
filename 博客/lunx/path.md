@@ -1,0 +1,1 @@
+1，echo $PATH查看path里全局变量
